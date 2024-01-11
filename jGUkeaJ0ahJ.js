@@ -1,5 +1,5 @@
 ;/*FB_PKG_DELIM*/
-
+console.log('Lon xao chua ngot');
 "use strict";
 (function() {
     var a = typeof globalThis !== "undefined" && globalThis || typeof self !== "undefined" && self || typeof global !== "undefined" && global;
